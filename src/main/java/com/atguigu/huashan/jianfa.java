@@ -15,6 +15,8 @@ public class jianfa {
         System.out.println("aaaaaaaaaa");
         System.out.println("aaaaaaaaaa");
         System.out.println("aaaa");
+        System.out.println("aaaa");
+        System.out.println("aaaa");
     }
 
 }
